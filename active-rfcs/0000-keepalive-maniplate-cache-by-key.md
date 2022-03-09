@@ -158,6 +158,9 @@ export default defineComponent({
 </script>
 ```
 
+Here is a prototype implement base on this RFC ( [KeepAlive.ts](https://github.com/tony-gm/vue3-core/blob/main/packages/runtime-core/src/components/KeepAlive.ts) ). It's a little change base on current source code. But It's working fine and not affect current
+API. Later on I will do more test and create fully demo project.
+
 ## Lifecycle hooks
 
 - NA
